@@ -22,7 +22,7 @@ export default function RootLayout({ children }) {
           <SearchBox/>
           {children}
         </Providers>
-        </body>
+      </body>
     </html>
   );
 }
